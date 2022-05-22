@@ -11,6 +11,7 @@ Shopify Technical Challenge Submission for the Backend Developer Intern position
 ## Instructions
 
 The app itself is self explanatory. The navigation bar and the buttons on each item explain their purposes too.
+
 NOTE: If the navbar does not toggle, please expand your screen size so you can access the navbar items.
 
 NOTE: If you're curious, we have a Swagger UI running on
