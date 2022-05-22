@@ -11,7 +11,7 @@ Shopify Technical Challenge Submission for the Backend Developer Intern position
 ## Instructions
 
 The app itself is mostly self explanatory. The navigation bar and the buttons on each item explain their purposes too.
-I will only explain details that might be confusing.
+I will only explain very specific details.
 
 ### Creating items
 
