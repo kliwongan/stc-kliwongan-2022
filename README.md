@@ -5,9 +5,9 @@ Shopify Technical Challenge Submission for the Backend Developer Intern position
 - FastAPI
 - SQLAlchemy
 - React JS + Bootstrap
-- Heroku (backend)
 
-## Additional tech stack (not represented on Github)
+## Additional tech stack (not reflected on the repo)
+- Heroku (backend since Replit cannot run two terminals for the frontend AND backend)
 - CORS proxy server using CORS anywhere(to allow Replit to query the API since Heroku's CORS config is complicated)
 
 ## Instructions
