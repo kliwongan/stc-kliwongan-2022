@@ -22,6 +22,7 @@ Since I am not running form validation, even if you do submit empty fields, an i
 Since the values have placeholders, you only have to fill in the inputs that you want to change.
 If you leave the rest blank, the values will stay the same.
 
+## Additional notes
 
 NOTE: If the navbar does not toggle, please expand your screen size so you can access the navbar items.
 
