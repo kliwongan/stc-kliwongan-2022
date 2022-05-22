@@ -6,7 +6,9 @@ Shopify Technical Challenge Submission for the Backend Developer Intern position
 - SQLAlchemy
 - React JS + Bootstrap
 - Heroku (backend)
-- CORS proxy server (to allow Replit to query the API since Heroku's CORS config is complicated)
+
+## Additional tech stack (not represented on Github)
+- CORS proxy server using CORS anywhere(to allow Replit to query the API since Heroku's CORS config is complicated)
 
 ## Instructions
 
