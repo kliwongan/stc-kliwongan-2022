@@ -13,6 +13,7 @@ Shopify Technical Challenge Submission for the Backend Developer Intern position
 ## Instructions
 
 The app itself is mostly self explanatory. The navigation bar and the buttons/links on each item explain their purposes too.
+I have chosen to implement the undeletion and deletion comment features.
 I will only explain very specific details.
 
 ### Item refreshing
