@@ -15,6 +15,10 @@ Shopify Technical Challenge Submission for the Backend Developer Intern position
 The app itself is mostly self explanatory. The navigation bar and the buttons/links on each item explain their purposes too.
 I will only explain very specific details.
 
+### Item refreshing
+
+If items or updates do not refresh after CRUD and undelete operations, please refresh the page.
+
 ### Creating items
 
 Since I am not running form validation, even if you do submit empty fields, an item will be created regardless.
